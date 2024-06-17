@@ -1,0 +1,29 @@
+{
+    "favorites": [
+      {
+        "id": 1,
+        "name": "Hyderabad",
+        "temperature": "31.23 °C"
+      },
+      {
+        "id": 2,
+        "name": "Warangal",
+        "temperature": "30.98 °C"
+      },
+      {
+        "id": 4,
+        "name": "Bengaluru",
+        "temperature": "26.84 °C"
+      },
+      {
+        "id": 5,
+        "name": "Delhi",
+        "temperature": "41.05 °C"
+      },
+      {
+        "id": 6,
+        "name": "Goa",
+        "temperature": "26.84 °C"
+      }
+    ]
+  }
